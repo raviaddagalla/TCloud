@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_bg">#FF0F1923</color>
+    <color name="tcloud_primary">#FF6C63FF</color>
+    <color name="tcloud_secondary">#FF00D9FF</color>
+</resources>

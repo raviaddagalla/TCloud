@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TCloud</string>
+
+    <!-- Onboarding -->
+    <string name="welcome_title">Welcome to TCloud</string>
+    <string name="welcome_subtitle">Your personal cloud storage, backed by your Telegram account.</string>
+    <string name="welcome_description">TCloud uses Telegram as its remote storage backend. Files backed up through TCloud are stored in your Telegram account. TCloud needs Telegram authorization to upload and download your files.\n\nYou will never need to manually upload files to Telegram.</string>
+    <string name="connect_telegram">Connect Telegram</string>
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="finish">Finish</string>
+
+    <!-- Auth -->
+    <string name="enter_phone">Enter your phone number</string>
+    <string name="phone_hint">Phone number with country code</string>
+    <string name="enter_code">Enter verification code</string>
+    <string name="code_hint">Verification code</string>
+    <string name="enter_password">Enter your 2FA password</string>
+    <string name="password_hint">Two-factor authentication password</string>
+    <string name="verify">Verify</string>
+    <string name="submit">Submit</string>
+    <string name="logging_in">Logging in…</string>
+    <string name="auth_error">Authentication failed. Please try again.</string>
+    <string name="logout">Disconnect</string>
+    <string name="reconnect">Reconnect</string>
+
+    <!-- Home -->
+    <string name="home">Home</string>
+    <string name="files">Files</string>
+    <string name="uploads">Uploads</string>
+    <string name="settings">Settings</string>
+    <string name="search_files">Search files…</string>
+    <string name="storage">Storage</string>
+    <string name="recent">Recent</string>
+    <string name="quick_access">Quick Access</string>
+    <string name="photos">Photos</string>
+    <string name="videos">Videos</string>
+    <string name="documents">Documents</string>
+    <string name="audio">Audio</string>
+    <string name="archives">Archives</string>
+    <string name="other">Other</string>
+
+    <!-- Sync -->
+    <string name="backup_status">Backup Status</string>
+    <string name="everything_backed_up">Everything backed up</string>
+    <string name="backing_up">Backing up %1$d files…</string>
+    <string name="waiting_for_wifi">Waiting for Wi-Fi</string>
+    <string name="waiting_for_charging">Waiting for charging</string>
+    <string name="battery_too_low">Battery too low</string>
+    <string name="pending_backup">%1$s remaining</string>
+    <string name="files_failed">%1$d files failed</string>
+
+    <!-- Settings -->
+    <string name="account">Account</string>
+    <string name="backup">Backup</string>
+    <string name="network">Network</string>
+    <string name="battery">Battery</string>
+    <string name="storage_settings">Storage</string>
+    <string name="downloads">Downloads</string>
+    <string name="notifications">Notifications</string>
+    <string name="security">Security</string>
+    <string name="appearance">Appearance</string>
+    <string name="about">About</string>
+    <string name="automatic_backup">Automatic backup</string>
+    <string name="wifi_backup">Backup over Wi-Fi</string>
+    <string name="mobile_data_backup">Backup over mobile data</string>
+    <string name="roaming_backup">Backup while roaming</string>
+    <string name="charging_only">Backup while charging only</string>
+    <string name="min_battery">Minimum battery percentage</string>
+    <string name="max_cache_size">Maximum cache size</string>
+
+    <!-- File actions -->
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="move">Move</string>
+    <string name="make_offline">Make available offline</string>
+    <string name="open_with">Open with…</string>
+    <string name="file_details">File Details</string>
+
+    <!-- Disconnect -->
+    <string name="disconnect_title">Disconnect Telegram?</string>
+    <string name="disconnect_message">Your files stored in Telegram will NOT automatically be deleted.\n\nTCloud will stop synchronizing this account.</string>
+    <string name="cancel">Cancel</string>
+    <string name="disconnect">Disconnect</string>
+
+    <!-- About -->
+    <string name="about_disclaimer">TCloud is an independent third-party application. It uses Telegram\'s API as a storage backend. TCloud is not affiliated with or endorsed by Telegram.</string>
+    <string name="privacy_explanation">Files selected for backup are uploaded to your Telegram account. TCloud needs Telegram authorization to perform this operation. TCloud does not upload your files to a TCloud-owned storage server.</string>
+</resources>
